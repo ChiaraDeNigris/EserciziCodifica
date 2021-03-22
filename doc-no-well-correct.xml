@@ -1,0 +1,17 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<docu>
+    <element>
+
+    </element>
+    <nowell>
+        <over>
+        </over>
+        <!-- Aggiungo un elemento sibling a over-->
+        <sibling>
+        </sibling>
+    </nowell>
+    <!-- Aggiungo un elemento figlio a docu-->
+    <child>
+    </child>
+        
+</docu>

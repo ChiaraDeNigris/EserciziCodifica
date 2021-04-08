@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "./esercizioLez6-dtd.dtd">
+
+<TEI>
+    <header type="intestazione" lang="ita">
+        nota
+    </header>
+
+    <facsimile source="contenuto testuale" ref="AB BC"/>
+
+    <testo id="AB" type="contenuto testuale"></testo>
+    <testo id="BC"></testo>
+</TEI>

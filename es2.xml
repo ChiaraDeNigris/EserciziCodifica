@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!--
+	Autore:Chiara De Nigris
+	Esercizio: scrivere e fare il check di un xml non opportunamente annidato 
+-->
+
+<root>
+    <div>
+        questo è un elemento annidato correttamente
+    </div>
+
+    <span>
+        <p>
+        qui ci sono più gerarchie
+    </span>
+        </p>
+</root>
+
+<!-- ERRORE
+$ [Fatal Error] es2.xml:13:7: The element type "p" must be terminated by the matching end-tag "</p>".
+-->
+
+<!--VERSIONE CORRETTA
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<root>
+    <div>
+        questo è un elemento annidato correttamente
+    </div>
+
+    <span>
+        <p>
+        qui ci sono più gerarchie
+		</p>
+	</span>
+        
+</root>
+-->

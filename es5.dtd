@@ -6,4 +6,4 @@
 
 <!ELEMENT header (#PCDATA) >
 <!ELEMENT facsimile (#PCDATA) >
-<!ELEMENT testo (#PCDATA|seg)* >
+<!ELEMENT testo (#PCDATA) >

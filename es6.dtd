@@ -1,3 +1,7 @@
+<!-- 
+	Autore: Chiara De Nigris
+-->
+
 <!ELEMENT TEI (header,facsimile?,testo+)>
 
 <!ELEMENT header (#PCDATA) >

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    Autore: Chiara De Nigris
+-->
+<htmlCode>
+    <![CDATA[
+        <h1> Titolo uno </h1>
+        <p> testo </p>
+        <b> testo in grassetto </b>
+    ]]>
+</htmlCode>

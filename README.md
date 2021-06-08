@@ -6,3 +6,4 @@
 * Esercizio 4:
 * Esercizio 5: Definire una dtd con root TEI e figli header,facsimile e test
 * Esercizio 6: Definire una dtd con root TEI e figli header,facsimile e test e i relativi attributi
+* Esercizio 7: includere all’interno di un documento XML la dichiarazione del tipo, definire internamente gli elementi e gli attributi e validare. Inserire nel prologo di un documento XML la dichiarazione del tipo di documento e validare 

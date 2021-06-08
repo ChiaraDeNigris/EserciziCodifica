@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Autore: Chiara De Nigris
+-->
+
+<!DOCTYPE root [
+<!ELEMENT root (child, child2)>
+<!ELEMENT child (#PCDATA)>
+<!ELEMENT child2 (#PCDATA)>] >
+<root>
+    <child>
+        testo
+    </child>
+	<child2>
+        testo
+    </child2>
+</root>

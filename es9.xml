@@ -3,7 +3,7 @@
     Autore: Chiara De Nigris
 -->
 <!DOCTYPE TEI SYSTEM "tei_lite.dtd">
-<TEI xmlns="http://www.teic.org/ns/1.0">
+<TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>

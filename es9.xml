@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Autore: Chiara De Nigris
+-->
+<!DOCTYPE TEI SYSTEM "tei_lite.dtd">
+<TEI xmlns="http://www.teic.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+					Articolo Realtà Sannita: incidente stradale
+				</title>
+                <respStmt>
+                    <resp>Trascritto da:</resp>
+                    <name>Chiara De Nigris</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+				<publisher>Realtà Sannita</publisher>
+				<pubPlace>Benevento</pubPlace>
+                <date>2021-06-09</date>
+            </publicationStmt>
+            <sourceDesc>
+				<bibl>
+					<title>Scontro tra due utilitarie per mancato rispetto del diritto di precedenza</title>
+					<date>2021-06-07</date>
+				</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+		<body>
+		<p>
+			Nella mattinata di oggi, a <name>Benevento</name>, in <name>Via Compagna n. <num>2</num></name>, una <term>Mini</term> condotta da B.R. di anni <num>46</num>, è venuta in collisione con una <term>Chevrolet</term> condotta da A.C. di anni <num>48</num>.
+		</p>
+		<p>
+			A seguito dell’impatto le due utilitarie sono rimaste danneggiate. Hanno provveduto alla rilevazione dell’incidente il luogotenente della Polizia Municipale <name>Maurizio Petrella</name> e l’assistente capo <name>Annarita De Vita</name>, i quali hanno accertato la responsabilità del sinistro in capo a uno dei conducenti per il mancato rispetto del diritto di precedenza.
+		</p>
+		<p>
+			<q>“Nel caso che ha comportato il sinistro descritto</q> - dichiara il comandante della Polizia municipale <name>Fioravante Bosco</name> - <q>il diritto di precedenza lo ha il conducente dell’autovettura che transita sulla strada principale, mentre chi si immette nel flusso di traffico, uscendo da un luogo privato, deve dare la priorità a tutti gli altri autoveicoli in marcia. A nulla rileva la mancanza di visibilità poiché in tal caso il conducente può avvalersi della collaborazione di altre persone che, dall’esterno, fungono da assistenti in una manovra complicata”.</q>
+		</p>
+		</body>
+    </text>
+</TEI>
